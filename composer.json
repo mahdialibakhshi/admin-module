@@ -3,7 +3,7 @@
     "description": "module Admin",
     "type": "laravel-module",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
@@ -13,7 +13,7 @@
             "app/helpers.php"
         ]
     }
-    "version": "1.0.0"
+    
 
 
 }
