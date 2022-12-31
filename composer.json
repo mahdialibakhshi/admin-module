@@ -1,0 +1,18 @@
+{
+    "name": "alibakhshi/admin-module",
+    "description": "module Admin",
+    "type": "laravel-module",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Modules\\Admin\\": ""
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    }
+
+
+}
