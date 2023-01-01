@@ -67,3 +67,7 @@ Route::prefix('admin-panel/management')
     });
 Route::get('/redirect',[\Modules\Admin\Http\Controllers\AuthController::class,'index']);
 
+Route::get('logout',function (){
+    auth()->logout();
+})->name('logout');
+
