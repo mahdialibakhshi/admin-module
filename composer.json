@@ -8,10 +8,7 @@
     "autoload": {
         "psr-4": {
             "Modules\\Admin\\": ""
-        },
-        "files": [
-            "app/helpers.php"
-        ]
+        }
     }
     
 
