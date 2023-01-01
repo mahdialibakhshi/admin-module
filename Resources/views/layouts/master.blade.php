@@ -43,6 +43,7 @@
     * License: https://bootstrapmade.com/license/
     ======================================================== -->
     <script src="{{ asset('js/app.js') }}"></script>
+    <script src="{{ asset('js/Modules/Admin/admin.js') }}"></script>
     <link href="{{ asset('css/Modules/Admin/slider.css') }}" rel="stylesheet">
 </head>
 

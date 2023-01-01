@@ -4,7 +4,9 @@
     "type": "laravel-module",
     "license": "MIT",
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "uxweb/sweet-alert": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Modules\\Admin\\": ""
