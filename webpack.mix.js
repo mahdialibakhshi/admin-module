@@ -16,5 +16,5 @@ mix.setPublicPath('../../public');
 mix.copy( __dirname + '/Assets/css/Slider.css', '../../public/css/Modules/Admin/slider.css');
 mix.copy( __dirname + '/Assets/js/Slider.js', '../../public/js/Modules/Admin/slider.js');
 mix.copy( __dirname + '/Assets/ckeditor', '../../public/js/Modules/Admin/ckeditor');
-mix.copy( __dirname + '/Assets/bootstrap-select', '../../public/js/Modules/Admin/bootstrap-select');
+mix.copy( __dirname + '/Assets/admin', '../../public/admin');
 
